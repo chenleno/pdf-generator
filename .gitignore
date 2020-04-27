@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# IDE configure
+.vscode
+.idea
+
+# yarn error-log
+yarn-error.log
+
+# pdf dir
+pdf
